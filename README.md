@@ -1,7 +1,7 @@
 # LFI-Payloads-Lsit
 ****Local File Inclusion**
 
-A Local File Inclusion **(LFI)** vulnerability occurs when an application allows an attacker to include files on a server through the web browser. This can have various effects on the security and functionality of a web application and the server hosting it. Here are some 
+**A Local File Inclusion (LFI)** vulnerability occurs when an application allows an attacker to include files on a server through the web browser. This can have various effects on the security and functionality of a web application and the server hosting it. Here are some 
 
 **potential effects of LFI vulnerabilities:**
 
